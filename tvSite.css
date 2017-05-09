@@ -182,33 +182,5 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-text-white,.w3-hover-text-white:hover{color:#fff!important}
 .w3-text-black,.w3-hover-text-black:hover{color:#000!important}
 .w3-text-grey,.w3-hover-text-grey:hover,.w3-text-gray,.w3-hover-text-gray:hover{color:#757575!important}
-.w3-text-amber{color:#ffc107!important}
-.w3-text-aqua{color:#00ffff!important}
-.w3-text-light-blue{color:#87CEEB!important}
-.w3-text-brown{color:#795548!important}
-.w3-text-cyan{color:#00bcd4!important}
-.w3-text-blue-grey,.w3-text-blue-gray{color:#607d8b!important}
-.w3-text-light-green{color:#8bc34a!important}
-.w3-text-indigo{color:#3f51b5!important}
-.w3-text-khaki{color:#b4aa50!important}
-.w3-text-lime{color:#cddc39!important}
-.w3-text-orange{color:#ff9800!important}
-.w3-text-deep-orange{color:#ff5722!important}
-.w3-text-pink{color:#e91e63!important}
-.w3-text-purple{color:#9c27b0!important}
-.w3-text-deep-purple{color:#673ab7!important}
-.w3-text-sand{color:#fdf5e6!important}
-.seal-Red{color:#d60202!important}
-.w3-text-light-grey,.w3-hover-text-light-grey:hover,.w3-text-light-gray,.w3-hover-text-light-gray:hover{color:#f1f1f1!important}
-.w3-text-dark-grey,.w3-hover-text-dark-grey:hover,.w3-text-dark-gray,.w3-hover-text-dark-gray:hover{color:#3a3a3a!important}
-.w3-border-red,.w3-hover-border-red:hover{border-color:#f44336!important}
-.w3-border-green,.w3-hover-border-green:hover{border-color:#4CAF50!important}
-.w3-border-blue,.w3-hover-border-blue:hover{border-color:#2196F3!important}
-.w3-border-yellow,.w3-hover-border-yellow:hover{border-color:#ffeb3b!important}
-.w3-border-white,.w3-hover-border-white:hover{border-color:#fff!important}
-.w3-border-black,.w3-hover-border-black:hover{border-color:#000!important}
-.w3-border-grey,.w3-hover-border-grey:hover,.w3-border-gray,.w3-hover-border-gray:hover{border-color:#bbb!important}
 
-.marquee{
-  font-size: 25%;
-}
+.seal-Red{color:#d60202!important}
