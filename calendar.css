@@ -1,9 +1,10 @@
 .w3-content{max-width:980px;margin:auto}
 
 .w3-margin-top{margin-top:16px!important}
-
-.w3-margin-top{margin-top:16px!important}
-
-.w3-margin-top{margin-top:16px!important}
-.w3-margin-top{margin-top:16px!important}
-.w3-margin-top{margin-top:16px!important}
+h3{
+  text-align: center;
+}
+img{
+  height: 2%;
+  width: 2%;
+}
