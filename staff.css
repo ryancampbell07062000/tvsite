@@ -3,7 +3,7 @@ input {
   padding: 10px 24px;
   -webkit-transition-duration: 0.3s; /* Safari */
  transition-duration: 0.3s;
- width: 75%;
+ width: 100%;
 }
 input:hover {
   background-color: red; /* Green */
