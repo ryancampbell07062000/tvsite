@@ -1,11 +1,16 @@
-input {
-  background-color: white;
-  padding: 10px 24px;
-  -webkit-transition-duration: 0.3s; /* Safari */
- transition-duration: 0.3s;
- width: 75%;
+tr:hover {
+  background-color: red;
 }
-input:hover {
-  background-color: red; /* Green */
-    color: white;
+
+table {
+  align-content: center;
+  color: black;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th:hover{
+    background-color: white;
 }
